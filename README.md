@@ -14,10 +14,10 @@
 
 # Repository link
 
-https://github.com/hoffman1200/Homework-5
+https://github.com/paulthomas0824/Work-Day-Scheduler
 
 # Web site link
 
-https://hoffman1200.github.io/Homework-5/
+https://paulthomas0824.github.io/Work-Day-Scheduler/
 
 Fernando Soto Calis @hoffman1200
